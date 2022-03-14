@@ -1,0 +1,217 @@
+[
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/base/parameter_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/base/parameter_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/base/parameter_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/base/pipeline.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/base/pipeline.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/base/pipeline.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/bridge/bridge_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/bridge/bridge_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/bridge/bridge_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/bridge/debug_bridge.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/bridge/debug_bridge.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/bridge/debug_bridge.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/controller/controller_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/controller_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/controller_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/controller/geometric/controller_geo.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/geometric/controller_geo.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/geometric/controller_geo.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/controller/geometric/geo_params.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/geometric/geo_params.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/geometric/geo_params.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/controller/pid/controller_pid.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/pid/controller_pid.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/pid/controller_pid.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/controller/pid/pid_params.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/pid/pid_params.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/controller/pid/pid_params.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/estimator/estimator_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/estimator/estimator_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/estimator/estimator_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/estimator/feedthrough/feedthrough_estimator.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/estimator/feedthrough/feedthrough_estimator.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/estimator/feedthrough/feedthrough_estimator.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/estimator/feedthrough/feedthrough_params.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/estimator/feedthrough/feedthrough_params.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/estimator/feedthrough/feedthrough_params.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/math/integrator_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/math/integrator_euler.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_euler.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_euler.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/math/integrator_rk4.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_rk4.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_rk4.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/math/integrator_symplectic_euler.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_symplectic_euler.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/integrator_symplectic_euler.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/math/math.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/math.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/math/math.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/pilot/pilot.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/pilot/pilot.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/pilot/pilot.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/pilot/pilot_params.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/pilot/pilot_params.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/pilot/pilot_params.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/pilot/pipeline_config.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/pilot/pipeline_config.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/pilot/pipeline_config.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/reference/hover_reference.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/hover_reference.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/hover_reference.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/reference/reference_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/reference_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/reference_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/reference/trajectory_reference/polynomial.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/trajectory_reference/polynomial.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/trajectory_reference/polynomial.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/reference/trajectory_reference/polynomial_trajectory.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/trajectory_reference/polynomial_trajectory.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/trajectory_reference/polynomial_trajectory.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/reference/trajectory_reference/sampled_trajectory.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/trajectory_reference/sampled_trajectory.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/trajectory_reference/sampled_trajectory.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/reference/velocity_reference.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/velocity_reference.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/reference/velocity_reference.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/sampler/sampler_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/sampler/sampler_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/sampler/sampler_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/sampler/time_based/time_sampler.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/sampler/time_based/time_sampler.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/sampler/time_based/time_sampler.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/low_level_controller_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/low_level_controller_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/low_level_controller_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/low_level_controller_simple.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/low_level_controller_simple.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/low_level_controller_simple.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/model_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/model_init.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_init.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_init.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/model_motor.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_motor.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_motor.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/model_rigid_body.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_rigid_body.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_rigid_body.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/model_thrust_torque_simple.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_thrust_torque_simple.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/model_thrust_torque_simple.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/quadrotor_simulator.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/quadrotor_simulator.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/quadrotor_simulator.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/simulator/simulator_base.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/simulator_base.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/simulator/simulator_base.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/types/command.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/types/command.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/types/command.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/types/quad_state.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/types/quad_state.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/types/quad_state.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/types/quadrotor.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/types/quadrotor.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/types/quadrotor.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/utils/agi_watchdog.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/utils/agi_watchdog.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/utils/agi_watchdog.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/utils/logger.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/utils/logger.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/utils/logger.cpp"
+},
+{
+  "directory": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/cmake-build-debug",
+  "command": "/usr/bin/c++ -DEIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT -DEIGEN_DONT_PARALLELIZE -DEIGEN_DONT_VECTORIZE -DEIGEN_STACK_ALLOCATION_LIMIT=1048576 -I/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/include -isystem /usr/include/eigen3  -g -fno-finite-math-only -Wall -Wextra -Wpedantic -Werror -Wunused -Wno-unused-parameter -Wundef -Wcast-align -Wmissing-declarations -Wmissing-include-dirs -Wnon-virtual-dtor -Wredundant-decls -Wodr -Wunreachable-code -Wno-unknown-pragmas -std=gnu++17 -o CMakeFiles/dodgelib.dir/src/utils/timer.cpp.o -c /home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/utils/timer.cpp",
+  "file": "/home/elia/code/catkin_competition/src/agile_flight/agilicious/dodgelib/src/utils/timer.cpp"
+}
+]
