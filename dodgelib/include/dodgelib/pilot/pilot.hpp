@@ -7,6 +7,8 @@
 #include "dodgelib/types/quadrotor.hpp"
 #include "dodgelib/utils/logger.hpp"
 #include "dodgelib/utils/timer.hpp"
+#include <random>
+#include <unistd.h>
 
 namespace agi {
 
@@ -101,6 +103,10 @@ class Pilot {
   Timer pipeline_timer_;
 
   Logger logger_{"Pilot"};
+  //std::normal_distribution<float> norm_dist_{0.0,1.0};
+  std::uniform_real_distribution<float> uniform_dist_{-1.0,1.0};
+  std::random_device rd_;
+  std::mt19937 random_gen_{rd_()};
 };
 
 

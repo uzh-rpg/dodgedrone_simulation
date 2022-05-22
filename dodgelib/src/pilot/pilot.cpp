@@ -25,6 +25,7 @@ Pilot::Pilot(const PilotParams& params, const TimeFunction time_function)
   }
 
   pipeline_.bridge_ = debug_bridge_;
+  random_gen_.seed(20);
 }
 
 Pilot::~Pilot() {
@@ -114,6 +115,10 @@ bool Pilot::start() {
   }
 
   QuadState state = curr_state.getHoverState();
+  state.p[0] += uniform_dist_(random_gen_);
+  state.p[1] += uniform_dist_(random_gen_)*3;
+  state.p[2] += uniform_dist_(random_gen_)*2+2;
+  std::cout << "Current hover state is " << state << std::endl;
 
   if (curr_state.p[2] > params_.takeoff_threshold_) {
     logger_.info(
