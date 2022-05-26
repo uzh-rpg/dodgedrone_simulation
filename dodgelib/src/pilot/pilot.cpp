@@ -64,7 +64,15 @@ bool Pilot::setVelocityReference(const Vector<3>& velocity,
                                  const Scalar yaw_rate) {
   static std::shared_ptr<VelocityReference> reference;
   if (isInVelocityReference()) {
-    if (!reference->update(velocity, yaw_rate)) {
+    QuadState state;
+    if (!pipeline_.estimator_->getRecent(&state)) {
+      logger_.warn("Could not get reference state!");
+      return false;
+    }
+    // we assume the provided velocity is in bodyframe and transform it to world
+    // frame
+    Vector<3> des_vel_world = state.q() * velocity;
+    if (!reference->update(des_vel_world, yaw_rate)) {
       logger_.warn("Could not update velocity reference!");
       return false;
     }
@@ -86,7 +94,10 @@ bool Pilot::setVelocityReference(const Vector<3>& velocity,
     }
 
     reference = std::make_shared<VelocityReference>(state);
-    reference->update(velocity, yaw_rate);
+    // we assume the provided velocity is in bodyframe and transform it to world
+    // frame
+    Vector<3> des_vel_world = state.q() * velocity;
+    reference->update(des_vel_world, yaw_rate);
     pipeline_.appendReference(reference);
   }
 

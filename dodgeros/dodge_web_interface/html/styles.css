@@ -1,0 +1,88 @@
+/* code that is here, until the first @media block, will apply to any screen size */
+*{
+  font: 15px arial, sans-serif;
+}
+button{
+  font-size: 40px;
+  width: 250px;
+  display: block;
+}
+
+.btn-group .button {
+    background-color: #4CAF50; /* Green */
+    border: 1px solid green;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    float: left; 
+}
+.btn-group .button:hover {
+    background-color: #3e8e41;
+}
+
+#off_button{
+   background-color: #ff3300; /* Red */
+    border: 1px solid green;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    float: left; 
+  }
+#off_button:hover {
+    background-color: #b32400;
+}
+
+@media screen and (max-width: 800px) {
+  /* comes into effect for screens smaller than 480 pixels (inclusive) */
+  h2 {
+    margin-left: 20px;
+    line-height:1.0em;
+    font: bold 25px arial, sans-serif;
+    text-align: center;
+  }
+  button{
+    font-size: 40px;
+    width: 50%;
+  }
+  #h2Commands{
+    display: none;
+  }
+  #img_viewer{
+    width: 100%;
+  }
+  #rpg_logo{
+    width: 60%; 
+  }
+  #off_button{
+    width: 100%;
+  }
+}
+@media screen and (min-width: 801px) {
+  /* comes into effect for screens larger than or equal to 481 pixels */
+  h2 {
+    color: navy;
+    margin-left: 20px;
+    font: bold 25px arial, sans-serif;
+  }
+  button{
+    font-size: 20px;
+    width: 250px;
+  }
+  #img_viewer{
+    width: 400px;
+  }
+  #rpg_logo{
+    width: 400px;
+  }
+  #off_button{
+    width: 400px;
+  }
+}
+
+/* code that is here will apply to any screen size */ 

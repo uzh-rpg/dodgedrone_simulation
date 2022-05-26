@@ -1,0 +1,41 @@
+<launch>
+
+  <!-- arg name="host_address" value="192.168.200.20" /> -->
+  <!-- <arg name="host_address" value="192.168.1.121" /> -->
+  <!-- <arg name="host_address" value="192.168.1.117" /> -->
+  <!-- <arg name="host_address" value="192.168.213.118" /> -->
+  <!-- <arg name="host_address" value="192.168.100.92" /> -->
+  <!-- <arg name="host_address" value="192.168.200.19" /> -->
+  <!-- <arg name="host_address" value="192.168.200.3" /> -->
+  <arg name="host_address" value="192.168.213.118" />
+
+  <!-- relay form base computer to web: image -->
+  <!-- <node name="relay_image" pkg="topic_tools" type="throttle" args="messages /$(arg quad_name)/svo/image/0 1 /web_interface/svo/image0" /> -->
+  <node name="relay_state_estimate" pkg="topic_tools" type="relay" args="/$(arg quad_name)/dodgeros_pilot/state /web_interface/state_estimate" />
+  <node name="relay_telemetry" pkg="topic_tools" type="relay" args="/$(arg quad_name)/dodgeros_pilot/telemetry /web_interface/telemetry" />
+
+  <!-- relay from web to base computer: commands -->
+  <node name="relay_arm" pkg="topic_tools" type="relay" args="/web_interface/arm /remote_gui/btn_arm" />
+  <node name="relay_start" pkg="topic_tools" type="relay" args="/web_interface/start /remote_gui/btn_start" />
+  <node name="relay_land" pkg="topic_tools" type="relay" args="/web_interface/land /remote_gui/btn_land" />
+  <node name="relay_off" pkg="topic_tools" type="relay" args="/web_interface/off /remote_gui/btn_off" />
+  <node name="relay_force_hover" pkg="topic_tools" type="relay" args="/web_interface/force_hover /remote_gui/btn_force_hover" />
+  <node name="relay_load_traj" pkg="topic_tools" type="relay" args="/web_interface/load_traj /remote_gui/btn_load" />
+  <node name="relay_start_traj" pkg="topic_tools" type="relay" args="/web_interface/start_traj /remote_gui/btn_start_traj" />
+
+  <node name="relay_vel_cmd" pkg="topic_tools" type="relay" args="/web_interface/vel_cmd /$(arg quad_name)/dodgeros_pilot/velocity_command" />
+
+
+
+  <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch">
+    <arg name="address" value="$(arg host_address)"/>
+    <!-- block all other communication to the web interface -->
+    <!-- arg name="topics_glob" value="[/web_interface/*]" />
+    <arg name="services_glob" value="" />
+    <arg name="params_glob" value="" / -->
+  </include>
+
+  <!-- <node pkg="web_video_server" type="web_video_server" name="web_video_server" /> -->
+
+  <!-- <node pkg="quad_web_interface" type="start_browser.sh" name="start_browser" args="http://$(arg host_address):80"/> -->
+</launch>
